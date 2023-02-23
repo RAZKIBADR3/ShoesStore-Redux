@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.755698bb.css",
-    "main.js": "/static/js/main.642623a4.js",
-    "static/media/W2.jpg": "/static/media/W2.3f1074d7c6396ed5f20b.jpg",
-    "index.html": "/index.html",
-    "main.755698bb.css.map": "/static/css/main.755698bb.css.map",
-    "main.642623a4.js.map": "/static/js/main.642623a4.js.map"
+    "main.css": "/ShoesStore-Redux/static/css/main.945aa246.css",
+    "main.js": "/ShoesStore-Redux/static/js/main.642623a4.js",
+    "static/media/W2.jpg": "/ShoesStore-Redux/static/media/W2.3f1074d7c6396ed5f20b.jpg",
+    "index.html": "/ShoesStore-Redux/index.html",
+    "main.945aa246.css.map": "/ShoesStore-Redux/static/css/main.945aa246.css.map",
+    "main.642623a4.js.map": "/ShoesStore-Redux/static/js/main.642623a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.755698bb.css",
+    "static/css/main.945aa246.css",
     "static/js/main.642623a4.js"
   ]
 }
