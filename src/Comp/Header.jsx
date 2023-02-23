@@ -5,7 +5,7 @@ import { useSelector } from 'react-redux'
 export default function Header(){
     const items = useSelector(store=>store.items)
     const nav = [
-        {id:0,text:'Home',link:'/ShoesStore-Redux'},
+        {id:0,text:'Home',link:'/ShoesStore-Redux/'},
         {id:1,text:'Products',link:'/ShoesStore-Redux/Products'},
         {id:2,text:'About',link:'##'},
         {id:3,text:'Contact',link:'##'}
